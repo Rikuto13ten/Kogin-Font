@@ -1,4 +1,4 @@
 # About
 A pixel-based monospace font for coding. <br>
 This font is a modified version based on Departure Mono.
-<img width="5000" height="3120" alt="image" src="https://github.com/user-attachments/assets/df4abcae-86c8-45ef-b082-7ccdd8acaf67" />
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/3007195e-220b-414d-96cb-b5766a3d11eb" />
